@@ -30,3 +30,17 @@
 
 # 免編譯直接執行
 * 執行 myServer.jar 以及 myClient.jar 即可
+
+# 執行畫面
+* 登入畫面
+![image](https://user-images.githubusercontent.com/49481559/121279940-fb1f0400-c907-11eb-8f31-8dcbc43d7284.png)
+* 等待畫面
+![image](https://user-images.githubusercontent.com/49481559/121280083-420cf980-c908-11eb-8f46-9da87ee8dae5.png)
+* 配對成功
+![image](https://user-images.githubusercontent.com/49481559/121280147-5e109b00-c908-11eb-82cd-d5de09250569.png)
+* 遊玩畫面
+![image](https://user-images.githubusercontent.com/49481559/121280250-9021fd00-c908-11eb-96cd-88d3ad3a9092.png)
+
+
+
+
